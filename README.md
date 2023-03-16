@@ -4,4 +4,4 @@ Singleton é um padrão de projeto de software (do inglês Design Pattern). Este
 
 O conceito aplicado nesse exemplo foi o do iToken do Itaú: "É um dispositivo que gera códigos numéricos para a realização de transações digitais. Após alguns segundos esses códigos são renovados, garantindo ainda mais a sua segurança.", https://www.itau.com.br/seguranca/itoken.
 
-Como cada iToken é único, ele é um caso ideal para utilização do Singleton.
+Como cada iToken é único ele se torna um caso ideal para utilização do Singleton.
